@@ -4,6 +4,8 @@ Simple Digital Assets that exports Houdini poly lines to SVG file.
 
 ## Simple instalation
 
+![LK3NGvWoxy](https://user-images.githubusercontent.com/8003487/87589879-c7f1d780-c69a-11ea-8d72-a1ae692e5e7b.gif)
+
 Go to main menu Assets > Install Asset Library. Select `svg_exporter.hda` from *hdas* directory and click Install. 
 
 Now search for `SVG Exporter` node. 
